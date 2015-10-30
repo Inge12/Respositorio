@@ -19,6 +19,7 @@ public class Ingenieria_soft {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "HOLA GAY...");
+        //hola 
     }
     
 }
